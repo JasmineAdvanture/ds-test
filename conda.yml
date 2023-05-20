@@ -1,0 +1,4 @@
+name: venv
+dependencies:
+  - python=3.6.2=0
+  - pip
